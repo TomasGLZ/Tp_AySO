@@ -1,0 +1,221 @@
+git config --global user.email "tg17805@gmail.com"
+git config --global user.name "tomasGLZ"
+git commit -m "mi primer commit" 
+cat ssh
+ssh-keygen -t ed25519
+ls
+ls -la
+cd .ssh
+cat id_ed25519.pub
+..
+cd ..
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub~
+cd ..
+git init
+git status
+cd ..
+ld
+ls
+exit
+ls
+cd repogit
+cd ..
+ls
+git status
+cd ..
+ls
+cd home
+ls
+cd ..
+cd repogit
+exit
+cd repogit
+cd ,,
+cd ..
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+AAAAC3NzaC1lZDI1NTE5AAAAIFXPGN/6WWjSZ782IsNT7+w7+sXUXb7Sev52rm44H83b
+cd ..
+cd repogit
+ls
+cd utn-fra_so_onbording
+cd UTN-FRA_SO_onBording
+history
+history > historial.txt
+ls
+git status
+git add .
+git commit -m "segundo commit"
+git status
+cd ..
+ls
+git status
+git clone git@github.com:TomasGLZ/gonzalez_vagrant.git
+ls
+git status
+clear
+history > historia.txt
+ls
+git status
+cd ..
+cd repogit
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+cd ..
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+cat id_ed25519.pub
+cd ..
+cd repogit
+git clone git@github.com:TomasGLZ/gonzalez_vagrant.git
+ls 
+cd gonzalez_vagrant
+history > historial.txt
+git status
+git add .
+git status
+git commit -m "primer commit"
+git status
+git push
+cd ..
+echo "hola
+"
+cat /proc/cpuinfo
+cat /proc/ cpuinfo | grep proce
+cat /proc/cpuinfo | grep -i MODEL
+sudo cat /cat/etc/shadow
+sudo cat /etc/shadow
+ls
+cd repogit
+cd ..
+pwd
+cd repogit
+pdw
+pwd
+cd ..
+git status
+cd repogit
+git status
+cd ..
+exit
+vagrant halt
+vagrant status
+halt
+vagrant halt 
+exit
+ls
+whoami
+pwd
+man
+man man 
+echo "hola"
+git clone https://github.com/TomasGLZ/gonzalez_vagrant.git
+ls
+cd gonzalez_vagrant/
+ls
+history
+history > historial.txt
+ls
+cat historial.txt
+git status
+gis add .
+git add .
+cat .shh
+git status
+git commit -m "mi primer commit"
+ls
+cd repogit
+cd ..
+ssh-keygen -t -ed25519
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls
+id_ed25519.pub
+cat id_ed25519.pub
+ssh-keygen
+ls
+ls -al
+cd .ssh
+sh-keygen -t ed25519
+cd ..
+ssh-keygen -t ed25519
+ls -al
+cd .ssh 
+ls
+cat id_ed25519.pub
+cd ..
+cd repogiy
+cd repogit
+pwd
+ls -l
+pwd
+git clone git@github.com:TomasGLZ/Tp_AySO.git
+ls
+cd Tp_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+greo home_url /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo "usuario=$(whoami)" > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+ls
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git_status
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuarios.txt
+cat datos_usuario
+cat datos_usuario.txt
+cat /proc/cpuinfo
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt
+add .
+git add .
+git commit -m "feat: Anadiendo informacion de CPU"
+cat /etc/passwd
+grep -v nologin /etc/passwd > lista_ordenada
+cat lista_ordenada 
+sort lista_ordenada -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+cat lista_ordenada
+git add . 
+git commit -m "ADD: Lista de usuarios ordenada"
+git status
+ls
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+cat comando_dump_net 
+echo apropos "dump traffic" >> comando_dump_net 
+cat comando_dump_net 
+git add .
+git commit -m "comando_dump_net"
+git commit -m "Comando para capturar y analizar el trafico de red"
+cat << FIN >>README>md
+Alumno: Tomas
+Division: 113
+Turno: mañana
+FIN
+
+git add .
+git commit -m "datos del alumno"
+history -a
+history 
+history -a $HOME/.bash_history
+ls -la $HOME
+history -a $HOME/.bash_history
